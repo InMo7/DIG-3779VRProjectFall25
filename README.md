@@ -5,3 +5,4 @@ Symbol little: https://freesound.org/people/pjcohen/sounds/93908
 Symbol big: https://freesound.org/people/pjcohen/sounds/93907
 Snare: https://freesound.org/people/deadrobotmusic/sounds/577206
 Bass/big: https://freesound.org/people/pjcohen/sounds/410691
+Meow: https://freesound.org/people/timtube/sounds/60960
